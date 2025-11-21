@@ -1,0 +1,6 @@
+2025-11-19 20:45:05.201 [error] #56: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms
+2025-11-19 21:51:01.410 [error] #69: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CERT_AUTHORITY_INVALID
+2025-11-19 22:01:28.905 [error] #71: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-11-19 22:32:53.830 [error] #77: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms
+2025-11-20 07:51:59.772 [error] #186: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-11-21 09:45:45.449 [error] #489: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms

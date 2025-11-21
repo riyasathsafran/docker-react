@@ -1,0 +1,9 @@
+# use existing base image
+FROM node:14-alpine
+
+# Install all dependencies
+COPY ./ ./
+RUN npm install
+
+# Default Command
+CMD ["npm","start"]

@@ -1,0 +1,27 @@
+2025-11-19 18:36:08.263 [info] Started local extension host with pid 166188.
+2025-11-19 18:36:09.820 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-19 18:36:10.065 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-19 18:36:18.027 [info] [perf] Render performance baseline is 58ms
+2025-11-19 18:36:21.438 [error] Error: Unable to write file '/home/safran/Prod/frontend/Dockerfile.Dev' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/safran/Prod/frontend/Dockerfile.Dev')
+    at Kkt.writeFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:63694)
+    at async Kkt.createFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:63183)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:81750)
+    at async _3e.doCreateFileOrFolder (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:533:3352)
+    at async FLe.perform (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:9794)
+    at async Tpt.apply (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:12711)
+    at async Ppt.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:18775)
+    at async Ppt.perform (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:18430)
+    at async Npt.apply (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:20380)
+2025-11-19 18:36:21.465 [error] Unable to write file '/home/safran/Prod/frontend/Dockerfile.Dev' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/safran/Prod/frontend/Dockerfile.Dev'): Error: Unable to write file '/home/safran/Prod/frontend/Dockerfile.Dev' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/safran/Prod/frontend/Dockerfile.Dev')
+    at Kkt.writeFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:63694)
+    at async Kkt.createFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:63183)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:81750)
+    at async _3e.doCreateFileOrFolder (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:533:3352)
+    at async FLe.perform (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:9794)
+    at async Tpt.apply (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:12711)
+    at async Ppt.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:18775)
+    at async Ppt.perform (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:18430)
+    at async Npt.apply (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:20380)
+2025-11-19 18:37:35.619 [warning] [backup tracker] suspended, ignoring unregister event file:///home/safran/Prod/frontend/package.json 

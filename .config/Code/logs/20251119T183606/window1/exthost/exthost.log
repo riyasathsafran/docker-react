@@ -1,0 +1,16 @@
+2025-11-19 18:36:09.131 [info] Extension host with pid 166188 started
+2025-11-19 18:36:09.131 [info] Skipping acquiring lock for /home/safran/.config/Code/User/workspaceStorage/8b6c4162440cd251be69240c9c0d34de.
+2025-11-19 18:36:09.188 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-19 18:36:09.247 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-19 18:36:09.295 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:ignore'
+2025-11-19 18:36:09.388 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-19 18:36:09.477 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-19 18:36:09.478 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-19 18:36:09.802 [info] Eager extensions activated
+2025-11-19 18:36:09.808 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-19 18:36:09.813 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-19 18:36:14.782 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 18:36:14.797 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 18:36:14.819 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 18:37:35.594 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-19 18:37:35.651 [info] Extension host with pid 166188 exiting with code 0

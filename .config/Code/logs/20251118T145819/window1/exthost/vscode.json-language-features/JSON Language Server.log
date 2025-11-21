@@ -1,0 +1,25 @@
+2025-11-18 14:58:33.894 [info] cancelled
+2025-11-18 14:58:38.164 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-11-18 14:58:38.274 [info] read schema from vscode: vscode://schemas/toolsParameters
+2025-11-18 14:58:38.274 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-11-18 14:58:38.438 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-11-18 14:58:38.457 [info] read schema from vscode: vscode://schemas/token-styling
+2025-11-18 14:58:38.459 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-11-18 14:58:38.460 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-11-18 14:59:04.926 [info] cancelled
+2025-11-18 14:59:04.929 [info] cancelled
+2025-11-18 15:15:56.692 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-11-18 15:15:56.695 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-11-18 15:15:56.756 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-11-18 19:15:05.000 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2025-11-18 19:15:05.003 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-11-18 19:15:05.231 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-11-18 19:15:05.276 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-11-18 19:15:05.685 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-11-18 19:15:06.047 [info] cancelled
+2025-11-18 19:15:06.652 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2025-11-18 19:15:06.656 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-11-18 19:15:06.733 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-11-18 19:15:06.777 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-11-18 19:15:06.919 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-11-18 19:15:07.080 [info] cancelled

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="code.desktop" score="24192" last-seen="1763728822"/>
+    <application id="org.gnome.Ptyxis.desktop" score="12208" last-seen="1763570055"/>
+    <application id="org.gnome.TextEditor.desktop" score="24" last-seen="1763728829"/>
+    <application id="firefox.desktop" score="1377" last-seen="1763728830"/>
+  </context>
+</application-state>

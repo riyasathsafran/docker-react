@@ -1,0 +1,18 @@
+0 verbose cli /usr/bin/node-22 /usr/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.19.0
+3 silly config load:file:/usr/lib/node_modules_22/npm/npmrc
+4 silly config load:file:/home/safran/Prod/frontend/.npmrc
+5 silly config load:file:/home/safran/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/home/safran/.npm/_logs/2025-11-19T12_40_36_854Z-
+10 verbose logfile /home/safran/.npm/_logs/2025-11-19T12_40_36_854Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /home/safran/Prod/frontend
+13 verbose os Linux 6.12.0-55.42.1.el10_0.x86_64
+14 verbose node v22.19.0
+15 verbose npm  v10.9.3
+16 verbose exit 127
+17 verbose code 127

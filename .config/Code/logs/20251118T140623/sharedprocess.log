@@ -1,0 +1,3 @@
+2025-11-18 14:06:29.317 [info] Started initializing default profile extensions in extensions installation folder. file:///home/safran/.vscode/extensions
+2025-11-18 14:06:29.469 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/safran/.vscode/extensions Unable to create file 'vscode-userdata:/home/safran/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-11-18 14:06:29.469 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/safran/.vscode/extensions

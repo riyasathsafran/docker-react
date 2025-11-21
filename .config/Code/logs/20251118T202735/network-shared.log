@@ -1,0 +1,5 @@
+2025-11-19 04:00:17.665 [error] #111: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms
+2025-11-19 04:06:18.629 [error] #112: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms
+2025-11-19 04:11:29.635 [error] #113: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-11-19 08:49:06.630 [error] #167: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-11-19 12:09:28.621 [error] #206: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 60000ms

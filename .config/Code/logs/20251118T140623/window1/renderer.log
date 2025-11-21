@@ -1,0 +1,7 @@
+2025-11-18 14:06:28.305 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-18 14:06:28.798 [info] Started local extension host with pid 4654.
+2025-11-18 14:06:28.936 [info] Started initializing default profile extensions in extensions installation folder. file:///home/safran/.vscode/extensions
+2025-11-18 14:06:29.452 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/safran/.vscode/extensions
+2025-11-18 14:06:29.494 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-18 14:06:30.305 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-18 14:06:42.096 [info] [perf] Render performance baseline is 54ms

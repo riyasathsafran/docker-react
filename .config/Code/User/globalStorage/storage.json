@@ -1,0 +1,97 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "653ce5ce113d332a33da11ba55335b8b96c8db23bde12f4f550a7da7635a1fb4",
+    "telemetry.devDeviceId": "ec5fd19b-da87-4a50-9d88-9524ac3e5c71",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/safran/Prod/frontend"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/safran": "__default__profile__",
+            "file:///home/safran/redis-image": "__default__profile__",
+            "file:///home/safran/SIMPLEWEB": "__default__profile__",
+            "file:///home/safran/visits": "__default__profile__",
+            "file:///home/safran/Prod/frontend": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/safran/Prod/frontend",
+            "backupPath": "/home/safran/.config/Code/Backups/3504807fba4701085cd255f9530a423e",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 32,
+                "width": 1280,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "e56fc3ae6c269540f83bcac60b339568": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "43ae94f73d1dc4d6da1de833c29f4429": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "67842bc77556472cefef4f74d888c39c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "94a2e7965b42766449060b3ecdfee5bc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "8b6c4162440cd251be69240c9c0d34de": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

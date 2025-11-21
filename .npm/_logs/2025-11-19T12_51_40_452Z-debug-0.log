@@ -1,0 +1,42 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v18.20.8
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/safran/Prod/frontend/.npmrc
+5 silly config load:file:/home/safran/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/home/safran/.npm/_logs/2025-11-19T12_51_40_452Z-
+10 verbose logfile /home/safran/.npm/_logs/2025-11-19T12_51_40_452Z-debug-0.log
+11 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 verbose stack Error: EACCES: permission denied, mkdir '/home/safran/Prod/frontend/node_modules'
+16 error code EACCES
+17 error syscall mkdir
+18 error path /home/safran/Prod/frontend/node_modules
+19 error errno -13
+20 error [Error: EACCES: permission denied, mkdir '/home/safran/Prod/frontend/node_modules'] {
+20 error   errno: -13,
+20 error   code: 'EACCES',
+20 error   syscall: 'mkdir',
+20 error   path: '/home/safran/Prod/frontend/node_modules'
+20 error }
+21 error
+21 error The operation was rejected by your operating system.
+21 error It is likely you do not have the permissions to access this file as the current user
+21 error
+21 error If you believe this might be a permissions issue, please double-check the
+21 error permissions of the file and its containing directories, or try running
+21 error the command again as root/Administrator.
+22 silly unfinished npm timer reify 1763556700956
+23 silly unfinished npm timer reify:createSparse 1763556702452
+24 verbose cwd /home/safran/Prod/frontend
+25 verbose os Linux 6.12.0-55.42.1.el10_0.x86_64
+26 verbose node v18.20.8
+27 verbose npm  v10.8.2
+28 verbose exit -13
+29 verbose code -13
+30 error A complete log of this run can be found in: /home/safran/.npm/_logs/2025-11-19T12_51_40_452Z-debug-0.log
